@@ -1,2 +1,2 @@
-pytest >= 6.2.5
-maturin >= 11.5
+pytest
+maturin
